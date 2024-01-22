@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=23&duration=3000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+There;I'm+Urias;Software+Engineer)](https://git.io/typing-svg)
 
+<hr>
+
 ![Developer Time](developer-time.gif)
 
 <h2 align="center">Technologies</h2>
