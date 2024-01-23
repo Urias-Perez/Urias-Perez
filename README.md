@@ -16,7 +16,7 @@
 
 <div  align="right"> 
 
-<img  width=100% height=50%   style="  border-radius:  4px "  src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"> > 
+<img   style="  border-radius:  4px "  src="Urias.png">  
 
 
 </div>
