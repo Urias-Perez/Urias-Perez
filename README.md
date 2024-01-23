@@ -4,16 +4,31 @@
 
 </div>
 
+
+
+
+<div >
+ <div align="left" > <span style="color: #008080; font-weight: bold">Software Engineer</span>
+
+ 
+<p> I graduated from the technological university of the riviera maya</p>
+</div>
+
+<div  align="right"> 
+
+<img  width=100% height=50%   style="  border-radius:  4px "  src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"> > 
+
+
+</div>
+</div>
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=23&duration=3000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+There;I'm+Urias;Software+Engineer)](https://git.io/typing-svg)
 
 <h2>About Me</h2>
- 
- <span style="color: #008080; font-weight: bold">Software Engineer</span>
-<p> I graduated from the technological university of the riviera maya</p>
 
-![Developer Time](developer-time.gif)
 
 <h2>Contact</h2>
 
