@@ -9,7 +9,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=23&duration=3000&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+There;I'm+Urias;Software+Engineer)](https://git.io/typing-svg)
 
 <h2>About Me</h2>
-<p>I'am <span style="color: #008080; font-weight: bold">Software Engineer</span>, I graduated from the technological university of the riviera maya</p>
+ 
+ <span style="color: #008080; font-weight: bold">Software Engineer</span>
+<p> I graduated from the technological university of the riviera maya</p>
 
 ![Developer Time](developer-time.gif)
 
